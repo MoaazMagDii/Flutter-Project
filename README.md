@@ -1,4 +1,4 @@
 # E-Commerce
 
-A new Flutter Ecommerce project selling ice skating products
+A new Flutter E commerce project selling ice skating products
 
